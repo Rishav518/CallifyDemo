@@ -31,7 +31,7 @@ const Companies = () => {
       <div className="flex items-center justify-center max-w-7xl w-full">
           <div className="flex space-x-0 space-y-0 md:space-y-2 md:space-x-4 md:justify-between justify-center flex-wrap w-full">
           {companiesData.map((company, index) => (
-          <div className='h-20 w-40 px-8 overflow-hidden py-4'>
+          <div key={index} className='h-20 w-40 px-8 overflow-hidden py-4'>
             <Image
               key={index}
               src={company.src}
