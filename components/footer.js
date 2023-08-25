@@ -21,45 +21,39 @@ const Footer = () => {
               </div>
               <div className="text-md text-gray-300 my-3">
                 Locations - Mumbai, 
-                <span className="text-[#8cf1ff]">India</span> | Callify Americas
+                <span className="text-[#8cf1ff]"> India</span> | Callify Americas
                 Inc; 160 Varick Street, New York, NY, 10013, 
-                <span className="text-[#8cf1ff]">USA</span>. | Manila, 
-                <span className="text-[#8cf1ff]">Philippines</span>
+                <span className="text-[#8cf1ff]"> USA</span>. | Manila, 
+                <span className="text-[#8cf1ff]"> Philippines</span>
               </div>
             </div>
             <div>
               <div className="flex m-2 space-x-4">
                 <a
                   className="rounded p-1 bg-blue-500 hover:bg-black ease-in duration-150 border border-blue-500 text-white hover:text-blue-500 m-1 px-2 text-lg"
-                  href="#"
+                  href="https://www.facebook.com/CallifyAi/" target={"_blank"}
                 >
                   <ion-icon name="logo-facebook" class="mt-1 text-xl"></ion-icon> 
                 </a>
                 <a
                   className="rounded p-1 bg-red-500 hover:bg-black ease-in duration-150 border border-red-500 text-white hover:text-red-500 m-1 px-2 text-lg"
-                  href="#"
+                  href="https://www.instagram.com/callify.ai/" target={'_blank'}
                 >
                   <ion-icon name="logo-instagram" class="mt-1 text-xl"></ion-icon> 
                 </a>
                 <a
                   className="rounded p-1 bg-blue-400 hover:bg-black ease-in duration-150 border border-blue-400 text-white hover:text-blue-400 m-1 px-2 text-lg"
-                  href="#"
+                  href="https://twitter.com/InCallify" target={'_blank'}
                 >
                   <ion-icon name="logo-twitter" class="mt-1 text-xl"></ion-icon> 
                 </a>
                 <a
-                  class="rounded p-1 bg-yellow-500 hover:bg-black ease-in duration-150 border border-yellow-500 text-white hover:text-yellow-500 m-1 px-2 text-lg"
-                  href="#"
+                  class="rounded p-1 bg-blue-900 hover:bg-black ease-in duration-150 border border-blue-900 text-white hover:text-blue-900 m-1 px-2 text-lg"
+                  href="https://www.linkedin.com/company/callifyai/" target={'_blank'}
                 >
                   <ion-icon name="logo-linkedin" class="mt-1 text-xl"></ion-icon> 
                 </a>
-                <a
-                  className="rounded p-1 bg-red-600 hover:bg-black ease-in duration-150 border border-red-600 text-white hover:text-red-600 m-1 px-2 text-lg"
-                  href="#"
-                >
-                  
-                  <ion-icon name="logo-reddit" class="mt-1 text-xl"></ion-icon> 
-                </a> 
+                
               </div>
             </div>
           </div>
