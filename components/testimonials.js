@@ -36,8 +36,8 @@ const testimonials = [
     "description": "Callify helped us achieve our hiring goal of 18,000 last year enabling us to save over $900,000 due to reduced cost-per-hire",
     "name": "Sukhi Sudarshan",
     "position": "Director, Talent Acquisition",
-    "image": "/Sukhi.png",
-    "company": "/EY.png",
+    "image": "/sukhi.png",
+    "company": "/ey.png",
     "alt": "EY review",
     "stats-line": "Reduced Cost-per-hire by",
     "stats": "25%"
