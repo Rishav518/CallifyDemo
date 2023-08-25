@@ -16,7 +16,7 @@ const testimonials = [
     "description": "Due to significant reduction in manual connecting and discussions with candidates, we did faster closures by atleast 10 days",
     "name": "Bill Mushman",
     "position": "Global Director, Talent Acquisition",
-    "image": "/bill.jpg",
+    "image": "/Bill.jpg",
     "company": "/NTT.png",
     "alt": "NTT review",
     "stats-line": "Increased speed of hire by",
@@ -36,8 +36,8 @@ const testimonials = [
     "description": "Callify helped us achieve our hiring goal of 18,000 last year enabling us to save over $900,000 due to reduced cost-per-hire",
     "name": "Sukhi Sudarshan",
     "position": "Director, Talent Acquisition",
-    "image": "/sukhi.png",
-    "company": "/ey.png",
+    "image": "/Sukhi.png",
+    "company": "/EY.png",
     "alt": "EY review",
     "stats-line": "Reduced Cost-per-hire by",
     "stats": "25%"
@@ -47,7 +47,7 @@ const testimonials = [
     "name": "Nicolle Franchezca",
     "position": "Head Sourcing",
     "image": "/Nicolle.png",
-    "company": "/wns.png",
+    "company": "/WNS.png",
     "alt": "WNS review",
     "stats-line": "Increased Coverage by",
     "stats": "9X"
