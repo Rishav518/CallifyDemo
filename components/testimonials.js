@@ -37,7 +37,7 @@ const testimonials = [
     "name": "Sukhi Sudarshan",
     "position": "Director, Talent Acquisition",
     "image": "/sukhi.png",
-    "company": "/ey.png",
+    "company": "/monster.png",
     "alt": "EY review",
     "stats-line": "Reduced Cost-per-hire by",
     "stats": "25%"

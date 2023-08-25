@@ -48,7 +48,7 @@ const Footer = () => {
                   <ion-icon name="logo-twitter" class="mt-1 text-xl"></ion-icon> 
                 </a>
                 <a
-                  class="rounded p-1 bg-blue-900 hover:bg-black ease-in duration-150 border border-blue-900 text-white hover:text-blue-900 m-1 px-2 text-lg"
+                  className="rounded p-1 bg-blue-900 hover:bg-black ease-in duration-150 border border-blue-900 text-white hover:text-blue-900 m-1 px-2 text-lg"
                   href="https://www.linkedin.com/company/callifyai/" target={'_blank'}
                 >
                   <ion-icon name="logo-linkedin" class="mt-1 text-xl"></ion-icon> 
